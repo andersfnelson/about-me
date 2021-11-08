@@ -1,2 +1,2 @@
-# about-me
-Simple about me html
+# About Me
+Simple HTML page to serve
